@@ -1,0 +1,6 @@
+- `10.class`
+- `"var1".class.public_methods.sort`
+- `String.superclass`
+- `def double(val); val * 2; end; double(10)`
+- `"testing" * 2`
+- `[1,2,3] * 2`
